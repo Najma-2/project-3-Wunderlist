@@ -36,5 +36,3 @@ function TaskList({tasks, setTasks, handleEdit, isEdit, onTaskUpdate}) {
 
 export default TaskList
 
-git branch -M main
-git push -u origin main
